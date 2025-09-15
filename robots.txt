@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.corporatecommands.com/sitemap.xml
