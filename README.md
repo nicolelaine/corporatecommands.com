@@ -9,7 +9,7 @@ Make sure you have [Hugo Extended](https://gohugo.io/getting-started/installing/
 This site is built with Hugo version:
 
 ```bash
-hugo v0.148.2+extended+withdeploy darwin/amd64 BuildDate=2025-07-27T12:43:24Z VendorInfo=brew
+hugo v0.150.0+extended+withdeploy darwin/arm64 BuildDate=2025-09-08T13:01:12Z VendorInfo=brew
 ```
 
 To preview the site locally:
