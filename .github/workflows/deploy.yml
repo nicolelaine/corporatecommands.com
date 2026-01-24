@@ -5,7 +5,7 @@ on:
     branches:
       - main  
   schedule:
-    cron: "0 0 1 1 *"  # Runs at midnight UTC on Jan 1 each year
+    - cron: "0 0 1 1 *"  # Runs at midnight UTC on Jan 1 each year
 
 jobs:
   build:
