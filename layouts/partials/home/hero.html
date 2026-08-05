@@ -22,13 +22,19 @@
             {{ end }}
           {{ end }}
           {{ if $homepageImage }}
-            <img class="h-full w-full object-cover nozoom mt-0 mr-0 mb-0 ml-0" src="{{ $homepageImage.RelPermalink }}">
+          <a
+    href="{{ .Site.Params.homepage.homepageImageLink | relURL }}"
+    class="absolute inset-0 z-10">
+    <img
+      class="h-full w-full object-cover nozoom mt-0 mr-0 mb-0 ml-0"
+      src="{{ $homepageImage.RelPermalink }}">
+  </a>
             {{ if not $disableHeroImageFilter }}
               <div
-                class="absolute inset-0 bg-gradient-to-r from-primary-500 to-secondary-600 dark:from-primary-600 dark:to-secondary-800 mix-blend-multiply"></div>
+                class="pointer-events-none absolute inset-0 bg-gradient-to-r from-primary-500 to-secondary-600 dark:from-primary-600 dark:to-secondary-800 mix-blend-multiply"></div>
             {{ else }}
               <div
-                class="absolute inset-0 from-primary-500 to-secondary-600 dark:from-primary-600 dark:to-secondary-800 mix-blend-multiply"></div>
+                class="pointer-events-none inset-0 from-primary-500 to-secondary-600 dark:from-primary-600 dark:to-secondary-800 mix-blend-multiply"></div>
             {{ end }}
           {{ end }}
         </div>
