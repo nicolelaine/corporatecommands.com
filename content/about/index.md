@@ -6,7 +6,7 @@ layout: "single"
 
 <img src="rollover.jpg" alt="Members of the Institute perform the Corporate Command 'Roll Over'." width="400">
 
-The International Database of Corporate Commands is a research initiative of the [Institute for Infinitely Small Things](https://www.infinitelysmallthings.net/).
+The International Database of Corporate Commands is a research initiative of [The Institute for Infinitely Small Things](https://www.infinitelysmallthings.net/).
 
 ## Research Abstract
 
