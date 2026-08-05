@@ -24,7 +24,7 @@ The Institute for Infinitely Small Things uses these commands to conduct researc
 
 If you wish to use this archive for your own research, you are free to do so under the terms of the Creative Commons license below. You may copy and distribute this work non-commercially as long as you give credit to the Institute and to the researchers who collect Corporate Commands.
 
-The Institute welcomes requests for Research Partnerships and is interested in publishing, syndicating or linking to any research that is relevant to our mission. Email us at info AT infinitelysmallthings.net to inquire.
+The Institute welcomes requests for Research Partnerships and is interested in publishing, syndicating or linking to any research that is relevant to our mission. [Email us](mailto:infinitelysmallthings@googlegroups.com) to inquire.
 
 ## Licensing 
 
